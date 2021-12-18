@@ -1,5 +1,4 @@
 from typing import Optional
-
 from prisma import Client, register, get_client
 from prisma.models import Url
 from hashids import Hashids
